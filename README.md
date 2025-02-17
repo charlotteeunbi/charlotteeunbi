@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> ### First-Year Computer Science Student
+> #### First-Year Computer Science Student
 
-- **Univ. of Michigan - Ann Arbor** Computer Science B.S. (2024.08 ~ 2028.05)  
-- ` Lab.` Research student (2021.03 ~ 2021.12)  
+- ` Univ. of Michigan - Ann Arbor` Computer Science B.S. (2024.08 ~ 2028.05)  
+- ` Research student ` 👩🏻‍💻 Currently working on  (2024.10 ~ Present)
+
+- 
 
 
 ## Contact
