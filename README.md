@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## First-Year Computer Science Student
+> ### First-Year Computer Science Student
 
-- **Dankook Univ.** Department of Software (2024.08 ~ 2028.05)  
+- **Univ. of Michigan - Ann Arbor** Computer Science B.S. (2024.08 ~ 2028.05)  
 - ` Lab.` Research student (2021.03 ~ 2021.12)  
 
 
