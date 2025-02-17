@@ -1,4 +1,4 @@
-## Hello! 👋😊
+# Charlotte Jen
 
 <!--
 **charlotteeunbi/charlotteeunbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## First-Year Computer Science Student
+
+- **Dankook Univ.** Department of Software (2024.08 ~ 2028.05)  
+- ` Lab.` Research student (2021.03 ~ 2021.12)  
+
+
+## Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:charjen@umich.edu)  
+
+
+
