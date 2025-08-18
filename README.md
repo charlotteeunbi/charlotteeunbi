@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> #### First-Year Computer Science Student
+> #### Second-Year Computer Science Student
 
 - `Univ. of Michigan - Ann Arbor`  👩🏻‍💻 Computer Science B.S. (2024.08 ~ expected 2028.05)  
 - `Research student` 💡 Currently working on a clinical tool that measures CoP, made in conjunction with UM-OPC. (2024.10 ~ present) 
