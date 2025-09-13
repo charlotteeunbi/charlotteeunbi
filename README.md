@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 > #### Second-Year Computer Science Student
 
 - `Univ. of Michigan - Ann Arbor`  👩🏻‍💻 Computer Science B.S. (2024.08 ~ expected 2028.05)  
-- `Research student` 💡 Currently working on a clinical tool that measures CoP, made in conjunction with UM-OPC. (2024.10 ~ present) 
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:charjen@umich.edu)  
