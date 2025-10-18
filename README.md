@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > #### Second-Year Computer Science Student
 
-- `Univ. of Michigan - Ann Arbor`  👩🏻‍💻 Computer Science B.S. (2024.08 ~ expected 2028.05)  
+- `Univ. of Michigan - Ann Arbor`  👩🏻‍💻 Computer Science B.S. (2024.08 ~ expected 2027.05)  
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:charjen@umich.edu)  
